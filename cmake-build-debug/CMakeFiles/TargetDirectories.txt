@@ -1,0 +1,3 @@
+C:/Users/12001732/Documents/cprogrameren1/aoc2023/cmake-build-debug/CMakeFiles/aoc2023.dir
+C:/Users/12001732/Documents/cprogrameren1/aoc2023/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/12001732/Documents/cprogrameren1/aoc2023/cmake-build-debug/CMakeFiles/rebuild_cache.dir
