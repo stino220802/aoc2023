@@ -489,3 +489,4 @@ void rotateGrid(std::vector<std::vector<char>> &grid) {
   }
   grid = std::move(transposed);
 }
+
