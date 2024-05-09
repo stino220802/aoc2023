@@ -29,7 +29,7 @@ int main() {
 	std::cerr << "Error opening file." << std::endl;
 	return 1;
   }
-  
+
   std::string line;
   std::getline(file, line);
 
