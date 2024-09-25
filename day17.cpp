@@ -165,8 +165,7 @@ void part2(std::vector<std::vector<int>> digits) {
   Point start = {0, 0, 0, 'R', 1};
   Point start2 = {0, 0, 0, 'D', 1};
   Point end = {end_x, end_y, digits[end.x][end.y]};
-  // priorityqueue works, normal queue doesnt. Strange but not gonna look
-  // further into it
+
   std::priority_queue<Point, std::vector<Point>, PointComparator> q;
   std::set<Point> map;
   q.push(start);
